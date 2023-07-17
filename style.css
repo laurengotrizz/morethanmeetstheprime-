@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+ background: linear-gradient(to right top, #ff4015, #3a87fe);
+}
+header {color:#f9d3e0;
+  text-align: center;
+   font-family:"Lucida Console", monospace }
+h1 {color:#f9d3e0; 
+  text-align:center;
+    font-family:"Lucida Console", monospace ;
+   }
+h3 {color:#f9d3e0;
+   text-align:center;
+   font-family:"Lucida Console", monospace ;}
+h2 {color:#f9d3e0;
+   text-align: center;
+   font-family:"Lucida Console", monospace;}
+p {color: #f9d3e0;
+  text-align: left;
+  font-family: "Lucida Console", monospace}
+h6 {color:#f9d3e0;
+   text-align: center;
+   font-family: "Lucida Console", monospace}
+
+div.gallery {margin:5px; border:2px solid lightcoral; float:center;}
+div.desc {text-align:center;}
+img-src {align:center}
